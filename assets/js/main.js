@@ -13,7 +13,7 @@ var tweetFeed = (function() {
 	setTimeout( function() { 
 
 		// Get the json file
-		$.getJSON("/assets/json/data.json", function(data) {
+		$.getJSON("assets/json/data.json", function(data) {
 
 			var output = "";
 

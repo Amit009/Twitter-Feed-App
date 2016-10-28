@@ -1,0 +1,106 @@
+[
+	{
+	  "name":"Kerem Suer",
+	  "handle": "@kerem",
+	  "displayPic": "assets/images/karem.png",
+	  "timePosted": "1m",
+	  "retweeted" : false,
+	  "tweetBody": {
+	  	"tweetMessage": "Duis aute irure empereur romain. Sa position au centre du territoire contrôlé par les rois Francs la fait choisir comme capitale de la France à la place de Tournai. Située au cœur d'un territoire agricole fertile.",
+	  	"video": ""
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 2
+	},
+	{
+	  "name":"AxelHerrmann",
+	  "handle": "@axel_herrmann",
+	  "displayPic": "assets/images/axel.png",
+	  "timePosted": "10m",
+	  "retweeted" : true,
+	  "tweetBody": {
+	  	"tweetMessage": "Elle se situe au cœur d'un vaste bassin sédimentaire aux sols fertiles et au climat tempéré, le bassin parisien, sur une boucle de la Seine. ",
+	  	"video": ""
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 20
+	},
+	{
+	  "name":"John Doe",
+	  "handle": "@john",
+	  "displayPic": "assets/images/john.png",
+	  "timePosted": "30m",
+	  "retweeted" : false,
+	   "tweetBody": {
+	  	"tweetMessage": "",
+	  	"video": "assets/images/video.png"
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 12
+	},
+	{
+	  "name":"Harman",
+	  "handle": "@harman",
+	  "displayPic": "assets/images/harman.jpg",
+	  "timePosted": "2h",
+	  "retweeted" : false,
+	  "tweetBody": {
+	  	"tweetMessage": "le géologue Paul Lemoine montre que le bassin est composé de strates disposées en cuvettes concentriques7,8, puis des études approfondies sur des données sismiques, des forages et des puits confirment les st.",
+	  	"video": ""
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 10
+	},
+	{
+	  "name":"Kerem Suer",
+	  "handle": "@kerem",
+	  "displayPic": "assets/images/karem.png",
+	  "timePosted": "3h",
+	  "retweeted" : false,
+	   "tweetBody": {
+	  	"tweetMessage": "rates en cuvettes concentriques, mais avec des objets complexes comme des failles. Les formations du relief parisien se situent dans les couches du Mésozoïque et du Paléogène (ère tertiaire) et ont été élaborées par l'érosion. La première strate datant de l'ère tertiaire est constituée d'alluvions de la Seine d'épo.",
+	  	"video": ""
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 1
+	},
+	{
+	  "name":"AxelHerrmann",
+	  "handle": "@axel_herrmann",
+	  "displayPic": "assets/images/axel.png",
+	  "timePosted": "4h",
+	  "retweeted" : true,
+	  "tweetBody": {
+	  	"tweetMessage": "se et souvent difficile malgré les larges avenues tracées par Haussmann au xixe siècle qui facilitèrent alors grandement un trafic déjà important à cette époque. La ville est entourée par le boulevard périphérique, autoroute urbaine la plus empruntée d'Europes 3 avec 270 000 véhicules par jour.",
+	  	"video": ""
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 5
+	},
+	{
+	  "name":"John Doe",
+	  "handle": "@john",
+	  "displayPic": "assets/images/john.png",
+	  "timePosted": "5h",
+	  "retweeted" : false,
+	  "tweetBody": {
+	  	"tweetMessage": "se et souvent difficile malgré les larges avenues tracées par Haussmann au xixe siècle qui facilitèrent alors grandement un trafic déjà important à cette époque. La ville est entourée par le boulevard périphérique, autoroute urbaine la plus empruntée d'Europes 3 avec 270 000 véhicules par jour.",
+	  	"video": ""
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 7
+	},
+	{
+	  "name":"Kerem Suer",
+	  "handle": "@kerem",
+	  "displayPic": "assets/images/karem.png",
+	  "timePosted": "Yesterday",
+	  "retweeted" : false,
+	  "tweetBody": {
+	  	"tweetMessage": "urbaine et élabore la construction de cinq villes nouvelles et du réseau de RER. Mais cette mutation majeure ne s'accompagne pas de la création d'une autorité unique, voyant au contraire deux des trois départements de la région parisienne (la Seine et la Seine-et-Oise) en constituer sept qui, s'ils sont.",
+	  	"video": ""
+	  },
+	  "starBy": 0,
+	  "reTweetedBy": 5
+	}
+]

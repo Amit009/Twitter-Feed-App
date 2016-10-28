@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Twitter Feed App</title>
+
+	<!-- Load Styles -->
+	<link rel="stylesheet" href="assets/build/css/style.css">
+</head>
+<body>
+	<div class="clearfix">
+		<div class="max-width-12 navbar_wrapper">
+			<div class="clearfix navbar_container relative">
+				<div class="left_nav_wrapper left">
+					<div class="logo inline-block left">
+						<a href="#" class="inline-block circle center">
+							<i class="fa fa-leaf" aria-hidden="true"></i>
+						</a>
+					</div>
+					<div class="notification_wrapper inline-block xs-hide">
+						<ul class="list-reset m0">
+						    <li class="inline-block">
+						    	<a href="#"><i class="fa fa-bell-o" aria-hidden="true"></i></a>
+						    </li>
+						    <li class="inline-block">
+						    	<a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+						    </li>
+						    <li class="inline-block">
+						    	<a href="#"><i class="fa fa-hashtag" aria-hidden="true"></i></a>
+						    </li>
+						</ul>
+					</div>
+				</div>
+				<div class="right_nav_wrapper right inline-block">
+					<form class="search_form inline-block left relative mr3 xs-hide">
+					  	<input id="search" type="text" class="input" placeholder="Search ">
+					  	<button class="btn not-rounded absolute" type="submit">
+					  		<i class="fa fa-search" aria-hidden="true"></i>
+					  	</button>
+					</form>
+					<div class="user_profile right">
+						<img src="assets/images/user.png" alt="user" class='fit circle relative'>
+					</div>
+				</div>
+				<div class="brand absolute">
+					<a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+				</div>
+  			</div>
+		</div>
+	</div>
+	<div class="clearfix">
+		<div class="sm-col-11 md-col-10 md-col-8 mx-auto">
+			<div class="profile_nav mt4">
+				<div class="clearfix">
+					<ul class="list-reset m0">
+					   	<li class="inline-block active center sm-col sm-col-3 py3">
+					   	 	<a href="#" class='text-decoration-none'>
+					    	    <span class="label block">Tweets</span>
+					    	    <span class="number bold">200</span>
+					    	</a>
+					    </li>
+					    <li class="inline-block center sm-col sm-col-3 py3">
+					    	<a href="#" class='text-decoration-none'>
+					    	    <span class="label block">Photos/Videos</span>
+					    	    <span class="number bold">100</span>
+					    	</a>
+					    </li>
+						<li class="inline-block center sm-col sm-col-3 py3">
+						    <a href="#" class='text-decoration-none'>
+					    	    <span class="label block">Following</span>
+					    	    <span class="number bold">300</span>
+						    </a>
+						</li>
+						<li class="inline-block center sm-col sm-col-3 py3">
+						    <a href="#" class='text-decoration-none'>
+					    	    <span class="label block">Followers</span>
+					    	    <span class="number bold">1M</span>
+						    </a>
+						</li>
+					</ul>
+				</div>
+			</div><div class="clearfix"></div>
+			<div class="tweets_list_container mb4">
+				<div class="tweet_list_wrapper mt3" id="twitter_feed">
+					<div class="tweet_loader py4">
+				        <span class="dot dot_1"></span>
+				        <span class="dot dot_2"></span>
+				        <span class="dot dot_3"></span>
+				        <span class="dot dot_4"></span>
+				    </div>
+				</div>				
+			</div>
+		</div>
+	</div>
+	
+	<!-- Load Scripts -->
+	<script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
+	<script src="assets/build/js/main.js" type="text/javascript"></script>
+</body>
+</html>

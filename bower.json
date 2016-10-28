@@ -1,0 +1,23 @@
+{
+  "name": "Twitter-Feed",
+  "description": "A simple twitter feed app",
+  "main": "",
+  "authors": [
+    "Amit Mishra"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "basscss-sass": "^4.0.0",
+    "font-awesome-min": "^4.6.1",
+    "font-awesome": "^4.7.0"
+  }
+}

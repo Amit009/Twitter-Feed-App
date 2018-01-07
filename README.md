@@ -1,2 +1,5 @@
-# Twitter-Feed-App
-A simple twitter feed app
+# Twitter Feed App
+A simple static twitter feed app
+
+# Demo
+https://amituidev.github.io/Twitter-Feed-App/
